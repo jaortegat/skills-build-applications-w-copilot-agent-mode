@@ -1,0 +1,16 @@
+[
+  'auth_group_permissions',
+  'django_session',
+  'auth_user_user_permissions',
+  'auth_user',
+  'octofit_tracker_team',
+  'django_admin_log',
+  'auth_permission',
+  '__schema__',
+  'auth_group',
+  'auth_user_groups',
+  'octofit_tracker_workout',
+  'django_migrations',
+  'octofit_tracker_user',
+  'django_content_type'
+]
